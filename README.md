@@ -7,6 +7,8 @@ date: 11/23/2020
 
 # quick shift
 
+This is a simple program written in go with the intention of creating a ignition killswitch for quick-shifting. It is built on top of an Arduino Nano using [Gobot](https://pkg.go.dev/gobot.io/x/gobot).
+
 ## Before you begin
 
 - [Install git](https://git-scm.com/downloads)
