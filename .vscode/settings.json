@@ -1,0 +1,12 @@
+{
+  "cSpell.words": [
+    "avrdude",
+    "firmata",
+    "gobot",
+    "gort",
+    "gpio"
+  ],
+  "cSpell.ignoreWords": [
+    "comx"
+  ]
+}
