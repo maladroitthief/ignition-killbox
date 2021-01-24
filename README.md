@@ -14,6 +14,7 @@ This is a simple program written in go with the intention of creating a ignition
 - [Install git](https://git-scm.com/downloads)
 - [Install vscode](https://code.visualstudio.com/)
 - [Install gort](https://gort.io/documentation/getting_started/downloads/)
+- **Install CH340 Driver**
 
 ## Upload Firmata to the Arduino
 

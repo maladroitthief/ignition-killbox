@@ -8,6 +8,11 @@ import (
 	"gobot.io/x/gobot/platforms/firmata"
 )
 
+/* TODO:
+- Button https://gobot.io/documentation/drivers/button/
+- Relay https://gobot.io/documentation/drivers/relay/
+- LCD https://gobot.io/documentation/drivers/ssd1306/
+*/ //
 func main() {
 	serialPort := "/dev/ttyACM0"
 
